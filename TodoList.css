@@ -1,0 +1,11 @@
+/* TodoList.css */
+.todo-list {
+    background-color: black;
+    color: pink;
+  }
+  
+  .todo-item {
+    margin: 10px 0;
+    list-style: none;
+  }
+  
